@@ -1,0 +1,33 @@
+.textone {
+    vertical-align: bottom;
+    text-align: center;
+    font-size: 15px;
+}
+
+.texttwo{
+  vertical-align: middle;
+  text-align: center;
+  color:green;
+  font-size:10px;
+}
+
+.textthree{
+  text-align: left;
+  color: orange;
+  font-size: 30px;
+  font-family: Times
+}
+
+.textfour{
+  text-align: right;
+  color: purple;
+  font-size: 8px;
+}
+
+.boxone{
+  width: 1405px;
+  height: 300px;
+  border: 2px dashed purple;
+  padding: 0px;
+  margin: 5px;
+}
